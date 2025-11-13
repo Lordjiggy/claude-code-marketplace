@@ -89,3 +89,6 @@ temp/
 *.bak
 *.backup
 *~.md
+
+# Internal Documentation (not for public repo)
+GITHUB_SETUP.md
