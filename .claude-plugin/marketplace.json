@@ -65,6 +65,48 @@
       "description": "Simple example skill demonstrating basic skill structure",
       "version": "1.0.0",
       "keywords": ["example", "tutorial", "beginner"]
+    },
+    {
+      "name": "docker-wizard",
+      "source": "./skills/devops/docker-wizard",
+      "description": "Generate optimized Dockerfiles and docker-compose.yml with best practices",
+      "version": "1.0.0",
+      "keywords": ["docker", "containerization", "dockerfile", "devops"]
+    },
+    {
+      "name": "k8s-generator",
+      "source": "./skills/devops/k8s-generator",
+      "description": "Generate production-ready Kubernetes manifests with best practices",
+      "version": "1.0.0",
+      "keywords": ["kubernetes", "k8s", "deployment", "cloud-native"]
+    },
+    {
+      "name": "cicd-pipeline-builder",
+      "source": "./skills/devops/cicd-pipeline-builder",
+      "description": "Generate CI/CD pipelines for GitHub Actions, GitLab CI with best practices",
+      "version": "1.0.0",
+      "keywords": ["cicd", "github-actions", "gitlab-ci", "automation"]
+    },
+    {
+      "name": "security-scanner",
+      "source": "./skills/security/security-scanner",
+      "description": "Comprehensive security scanner for vulnerabilities and OWASP Top 10 issues",
+      "version": "1.0.0",
+      "keywords": ["security", "vulnerability", "owasp", "secrets"]
+    },
+    {
+      "name": "changelog-generator",
+      "source": "./skills/automation/changelog-generator",
+      "description": "Generate beautiful CHANGELOG.md from git commits",
+      "version": "1.0.0",
+      "keywords": ["changelog", "documentation", "git", "versioning"]
+    },
+    {
+      "name": "git-hooks-manager",
+      "source": "./skills/automation/git-hooks-manager",
+      "description": "Setup git hooks for pre-commit, pre-push automation",
+      "version": "1.0.0",
+      "keywords": ["git", "hooks", "pre-commit", "automation"]
     }
   ]
 }
