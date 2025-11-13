@@ -7,7 +7,64 @@
   "metadata": {
     "description": "Community-driven Claude Code marketplace featuring curated skills, tools, and extensions",
     "version": "1.0.0",
-    "pluginRoot": "skills"
+    "pluginRoot": "."
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "pr-reviewer",
+      "source": "./skills/devops/pr-reviewer",
+      "description": "Autonomous AI-powered pull request reviewer with multi-agent analysis",
+      "version": "1.0.0",
+      "keywords": ["devops", "pr-review", "code-review", "multi-agent"]
+    },
+    {
+      "name": "workflow-composer",
+      "source": "./skills/automation/workflow-composer",
+      "description": "Chain multiple skills together into automated workflows with conditional logic",
+      "version": "1.0.0",
+      "keywords": ["automation", "workflow", "orchestration", "skill-chaining"]
+    },
+    {
+      "name": "database-query",
+      "source": "./skills/integrations/database-query",
+      "description": "Natural language database queries with multi-database support and optimization",
+      "version": "1.0.0",
+      "keywords": ["database", "sql", "query", "natural-language"]
+    },
+    {
+      "name": "code-migrator",
+      "source": "./skills/development/code-migrator",
+      "description": "Migrate legacy code to modern frameworks with automated refactoring",
+      "version": "1.0.0",
+      "keywords": ["migration", "modernization", "refactoring", "legacy-code"]
+    },
+    {
+      "name": "api-connector",
+      "source": "./skills/integrations/api-connector",
+      "description": "Connect to 100+ popular APIs using natural language",
+      "version": "1.0.0",
+      "keywords": ["api", "integration", "rest", "oauth"]
+    },
+    {
+      "name": "readme-generator",
+      "source": "./skills/documentation/readme-generator",
+      "description": "Generate comprehensive README files by analyzing project structure",
+      "version": "1.0.0",
+      "keywords": ["documentation", "readme", "markdown"]
+    },
+    {
+      "name": "unit-test-generator",
+      "source": "./skills/testing/unit-test-generator",
+      "description": "Generate comprehensive unit tests for multiple languages",
+      "version": "1.0.0",
+      "keywords": ["testing", "unit-tests", "tdd"]
+    },
+    {
+      "name": "hello-world",
+      "source": "./examples/hello-world",
+      "description": "Simple example skill demonstrating basic skill structure",
+      "version": "1.0.0",
+      "keywords": ["example", "tutorial", "beginner"]
+    }
+  ]
 }
